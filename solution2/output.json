@@ -1,0 +1,14 @@
+{
+    "output": [
+        {
+            "name": "Business Unit 1",
+            "Male": "Robert",
+            "Female": "Mary"
+        },
+        {
+            "name": "Business Unit 2",
+            "Male": "Michael",
+            "Female": "Jennifer"
+        }
+    ]
+}

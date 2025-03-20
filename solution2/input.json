@@ -1,0 +1,17 @@
+{
+    "input": [
+      {
+        "name": "Business Unit 1",
+        "states": [
+          "OH",
+          "NY"
+        ]
+      },
+      {
+        "name": "Business Unit 2",
+        "states": [
+          "CA"
+        ]
+      }
+    ]
+  }
