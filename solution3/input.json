@@ -1,0 +1,12 @@
+{
+    "units": [
+        {
+            "name": "Business Unit 1",
+            "names": ["John", "Bob"]
+        },
+        {
+            "name": "Business Unit 2",
+            "names": ["Dave", "Brook"]
+        }
+    ]
+}

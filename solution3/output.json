@@ -1,0 +1,22 @@
+[
+    {
+        "outputs": {
+            "John": {
+                "State": "NY",
+                "count": 500090
+            },
+            "Bob": {
+                "State": "CA",
+                "count": 12158
+            },
+            "Dave": {
+                "State": "CA",
+                "count": 7535
+            },
+            "Brook": {
+                "State": "CA",
+                "count": 1298
+            }
+        }
+    }
+]

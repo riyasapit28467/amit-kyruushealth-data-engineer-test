@@ -31,3 +31,33 @@ To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/riyasapit28467/amit-kyruushealth-data-engineer-test
 cd amit-kyruushealth-data-engineer-test
+
+
+```
+### Test solution1
+
+```bash 
+cd solution1
+python popular_name.py
+
+```
+
+Enter the start and end year
+
+### Test solution2
+
+```bash 
+cd solution2
+python names_by_business_unit.py
+
+```
+get the output.json in solution2 folder
+
+### Test solution3
+
+```bash 
+cd solution3
+python state_by_popular_names.py
+
+```
+get the output.json in solution3 folder
