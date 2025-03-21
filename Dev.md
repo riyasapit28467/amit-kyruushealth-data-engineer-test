@@ -35,11 +35,18 @@ cd amit-kyruushealth-data-engineer-test
 
 ```
 ### Test solution1
+```bash
+cd solution1
+python migration.txt
+```
 
 ```bash 
 cd solution1
-python popular_name.py
-
+python -m venv venv_name
+venv_name\Scripts\activate (windows)
+source venv_name/bin/activate (linux,mac)
+pip3 install -r .\requirement.txt
+python solution1.py
 ```
 
 Enter the start and end year
