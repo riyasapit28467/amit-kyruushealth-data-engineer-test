@@ -49,6 +49,10 @@ pip3 install -r .\requirement.txt
 python solution1.py
 ```
 
+```test
+curl "http://127.0.0.1:5000/getPopularNames?start_year=3000&end_year=2022"
+````
+
 Enter the start and end year
 
 ### Test solution2
